@@ -7,7 +7,7 @@
 }
 
 .leftmove3{
-    text-indent: -70px;
+    text-indent: -68px;
 }
 
 .leftmove2{
@@ -24,16 +24,56 @@
 }
 
 .leftmove7{
-    text-indent: 60px;
+    text-indent: -127px;
 }
 
 .leftmove8{
-    text-indent: -287px;
+    text-indent: -215px;
 }
 .aboutme{
-    font-size: large;
+    border: 2px solid #c7c7c7; 
+    border-radius: 8px; 
+    padding: 20px; 
+    background-color: #000000; 
+    max-width: 665px; 
+    margin: 20px auto; 
 }
 
+.skills{
+    border: 2px solid #c7c7c7; 
+    border-radius: 8px; 
+    padding: 20px; 
+    background-color: #000000; 
+    max-width: 690px; 
+    margin: 20px auto; 
+}
+
+.work{
+    border: 2px solid #c7c7c7; 
+    border-radius: 8px; 
+    padding: 20px; 
+    background-color: #000000; 
+    max-width: 350px; 
+    margin: 20px auto;
+}
+
+.stats{
+    border: 2px solid #c7c7c7; 
+    border-radius: 8px; 
+    padding: 20px; 
+    background-color: #000000; 
+    max-width: 350px; 
+    margin: 20px auto;
+}
+
+.mind{
+    border: 2px solid #c7c7c7; 
+    border-radius: 8px; 
+    padding: 20px; 
+    background-color: #000000; 
+    max-width: 350px; 
+    margin: 20px auto;
+}
 body,html{
     background: linear-gradient(to top, rgb(15,15,15), rgb(27,27,27));
     background-repeat: no-repeat;
